@@ -10,5 +10,6 @@ public class pemilhan2percobaan106 {
         }
         else
         System.out.println("Bukan tahun kabisat");
+        
     }
 }
