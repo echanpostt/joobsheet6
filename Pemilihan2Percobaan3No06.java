@@ -22,7 +22,7 @@ public class Pemilihan2Percobaan3No06 {
                 pajak = 0.2;
             gajiBersih = (int) (penghasilan - penghasilan * pajak);
             System.out.println("penghasilan bersih : " + gajiBersih);
-        } else if (kategori.equalsIgnoreCase("pekerja")) {
+        } else if (kategori.equals  ("pebisnis")) {
             if (penghasilan <= 2500000)
                 pajak = 0.1;
             else if (penghasilan <= 3500000) 
@@ -30,7 +30,7 @@ public class Pemilihan2Percobaan3No06 {
             else
                 pajak = 0.15;
             gajiBersih = (int) (penghasilan - penghasilan * pajak);
-            System.out.println("penggayahan bersih : " + gajiBersih);
+            System.out.println("penghasilan bersih : " + gajiBersih);
         } else
             System.out.println("kategori tidak valid");
     }
