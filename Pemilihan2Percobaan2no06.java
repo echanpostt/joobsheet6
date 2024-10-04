@@ -2,7 +2,7 @@ import java.util.Scanner;
 /**
  * pemilhan2percobaan206
  */
-public class Pemilhan2Percobaan2no06 {
+public class Pemilihan2Percobaan2no06 {
 
     public static void main(String[] args) {
         Scanner input06 = new Scanner(System.in);
