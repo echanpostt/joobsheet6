@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Pemilhan2Percobaan1No06 {
+public class Pemilihan2Percobaan1No06 {
     public static void main(String[] args) {
         Scanner input06 = new Scanner(System.in);
         System.out.println("Masukkan tahun : ");
